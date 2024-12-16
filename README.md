@@ -12,7 +12,7 @@ Bij dit vak ga je je verdiepen of verbreden in kennis over een bepaald stuk soft
 
 ## 2. Quick Scan (week 1)
 ### 2.1 Initiële Selectie
-- [ ] Maak een lijst van 3-5 frameworks/tools/softwarepakketten
+- [ ] Maak een lijst van 3-5 items (frameworks/tools/softwarepakketten)
 - [ ] Voor elk item:
   * Maak een Korte beschrijving (max 100 woorden)
   * Actuele marktpositie (populariteit, community grootte)
@@ -25,7 +25,7 @@ Bij dit vak ga je je verdiepen of verbreden in kennis over een bepaald stuk soft
 
 ## 3. Diepte-analyse (week 2 en 3)
 ### 3.1 Technische Vergelijking
-- [ ] Maak een technische vergelijking tussen de software/frameworks
+Maak een technische vergelijking tussen de items
 - [ ] Maak een tabel met de volgende kolommen:
   * Naam
   * Beschrijving
@@ -33,17 +33,31 @@ Bij dit vak ga je je verdiepen of verbreden in kennis over een bepaald stuk soft
   * Leercurve
   * Salarisindicatie
   * Toekomstperspectief
-- [ ] Compatibiliteit met andere tools (bijv. andere frameworks, databases, etc.)
-- [ ] Documentatie kwaliteit
+- [ ] Vul later aan met compatibiliteit met andere tools (bijv. andere frameworks, databases, etc.)
+- [ ] En ook documentatie kwaliteit
 
-### 3.2 Praktijkervaring
-- [ ] Vind voor elk item minimaal 1 voorbeeld project
-- [ ] Noteer gevonden uitdagingen/problemen
-- [ ] Noteer beschikbare resources voor leren (bijv. tutorials, boeken, online cursussen, etc.)
+### 3.2 Bestaande Projecten
+Vind voor elk item minimaal 1 voorbeeld project (github, youtube, etc.)
+- [ ] Maak een tabel met de volgende kolommen:
+  * Naam
+  * Project
+  * Link
+  * Beschrijving
+  * Uitdagingen
+  
+
+### 3.3 Resources voor leren
+- [ ] Noteer voor elk item beschikbare resources voor leren (bijv. tutorials, boeken, online cursussen, etc.)
+- [ ] Maak een tabel met de volgende kolommen:
+  * Naam
+  * Link
+  * Beschrijving
+  * Bronnen
+
 
 ## 4. Eindconclusie (week 4)
 ### 4.1 Definitieve Keuze
-- [ ] Noteer hoofdargumenten voor keuze
+- [ ] Noteer hoofdargumenten voor jouw keuze
 - [ ] Noteer risico's en mitigatie (oplossingen)
 - [ ] Noteer in het kort persoonlijk ontwikkelplan
 - [ ] Noteer  in het kort geschatte tijdsinvestering
@@ -51,12 +65,31 @@ Bij dit vak ga je je verdiepen of verbreden in kennis over een bepaald stuk soft
 ## 5. Op te leveren (week 5, 6 en 7)
 
 ### 5.1 Website met de resultaten van je onderzoek
-- [ ] Index pagina met de resultaten van je onderzoek
-- [ ] Een pagina voor elk item met de resultaten van je onderzoek
-- [ ] Een pagina met je persoonlijke conclusie
-- [ ] Een pagina met een overzicht van de bronnen die je hebt gebruikt
-- [ ] Een pagina met een overzicht van de code voorbeelden die je hebt gevonden
-- [ ] Een pagina met een overzicht van de vacatures die je hebt gevonden
+
+Maak een website met de resultaten van je onderzoek. De volgende userstories moeten worden afgewerkt:
+
+- [ ] Als gebruiker wil ik op de eerste pagina kunnen lezen wat je persoonlijke visie is voor nu en in 5 jaar.
+- [ ] Als gebruiker wil ik ook een pagina kunnen lezen met alle informatie omtrent je quick scan.
+- [ ] Als gebruiker wil ik ook een pagina kunnen lezen met alle informatie omtrent je diepte analyse.
+- [ ] Als gebruiker wil ik ook een pagina kunnen lezen met alle informatie omtrent je eindconclusie.
+
+## 6. Technische eisen
+
+- [ ] De website moet gemaakt worden met HTML, CSS, optioneel JavaScript.
+- [ ] De website mag gemaakt worden met TailwindCSS of Bootstrap.
+
+## 7. Planning
+
+Maak een strokenplanning met de volgende kolommen:
+
+- [ ] Week
+- [ ] Opdracht
+- [ ] Status
+- [ ] Datum
+- [ ] Opmerkingen
+- [ ] Tijd
+
+
 
 
 
