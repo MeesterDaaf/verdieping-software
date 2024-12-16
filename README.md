@@ -10,7 +10,7 @@ Bij dit vak ga je je verdiepen of verbreden in kennis over een bepaald stuk soft
 - [ ] Welke technische vaardigheden wil je ontwikkelen die je echt verder helpen in jouw loopbaan?
 - [ ] Welke software/frameworks/tools vind je interessant?
 
-## 2. Quick Scan (week 1)
+## 2. Quick Scan (week 1 & 2)
 ### 2.1 Initiële Selectie
 - [ ] Maak een lijst van 3-5 items (frameworks/tools/softwarepakketten)
 - [ ] Voor elk item:
@@ -38,12 +38,13 @@ Maak een technische vergelijking tussen de items
 
 ### 3.2 Bestaande Projecten
 Vind voor elk item minimaal 1 voorbeeld project (github, youtube, etc.)
-- [ ] Maak een tabel met de volgende kolommen:
+- [ ] Maak een overzicht (tabel) met de volgende kolommen:
   * Naam
   * Project
   * Link
   * Beschrijving
   * Uitdagingen
+  * Opmerkingen
   
 
 ### 3.3 Resources voor leren
@@ -75,8 +76,9 @@ Maak een website met de resultaten van je onderzoek. De volgende userstories moe
 
 ## 6. Technische eisen
 
-- [ ] De website moet gemaakt worden met HTML, CSS, optioneel JavaScript.
+- [ ] De website moet gemaakt worden met HTML, CSS, optioneel JavaScript en/of PHP.
 - [ ] De website mag gemaakt worden met TailwindCSS of Bootstrap.
+- [ ] De code moet in een public github repository staan.
 
 ## 7. Planning
 
@@ -89,7 +91,20 @@ Maak een strokenplanning met de volgende kolommen:
 - [ ] Opmerkingen
 - [ ] Tijd
 
+## Docent
 
+Week 1: Orienteren
+
+Week 2:
+- [ ] Presentatie over 1 item
+* Waarom dit item?
+* Welke vacatures zijn er mbt deze items?
+* Welke bronnen zijn er mbt deze items?
+
+Week 3: Groepswerk
+- [ ] Vergelijk bronnen met medestudente
+- [ ] Wat zijn de voordelen en nadelen van deze bronnen?
+- [ ] Wat is de leercurve van deze bronnen?
 
 
 
