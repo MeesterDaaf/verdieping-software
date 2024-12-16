@@ -65,7 +65,7 @@ Vind voor elk item minimaal 1 voorbeeld project (github, youtube, etc.)
 
 ## 5. Op te leveren (week 5, 6 en 7)
 
-### 5.1 Website met de resultaten van je onderzoek
+### 5.1 Website over onderzoek
 
 Maak een website met de resultaten van je onderzoek. De volgende userstories moeten worden afgewerkt:
 
@@ -76,13 +76,24 @@ Maak een website met de resultaten van je onderzoek. De volgende userstories moe
 
 ## 6. Technische eisen
 
+Mocht je van de technische eisen afwijken, dan moet je dit met de docent bespreken.
+
 - [ ] De website moet gemaakt worden met HTML, CSS, optioneel JavaScript en/of PHP.
 - [ ] De website mag gemaakt worden met TailwindCSS of Bootstrap.
 - [ ] De code moet in een public github repository staan.
 
 ## 7. Planning
 
-Maak een strokenplanning met de volgende kolommen:
+### 7.1 Standup
+
+Elke les ga je samen met de groep een standup doen.
+
+Elke les:
+* Wat heb je gedaan?
+* Wat ga je doen?
+* Wat is de status?
+
+### 7.2 Strokenplanning met de  kolommen:
 
 - [ ] Week
 - [ ] Opdracht
@@ -91,20 +102,31 @@ Maak een strokenplanning met de volgende kolommen:
 - [ ] Opmerkingen
 - [ ] Tijd
 
-## Docent
+### 7.3 Opdrachten in weken
 
-Week 1: Orienteren
+#### Week 1: Orienteren
 
-Week 2:
-- [ ] Presentatie over 1 item
+Beantwoord de vragen en doe een quick scan
+* Eerste onderzoek naar software/frameworks/tools
+
+#### Week 2: Presentatie
+Presentatie aan de klas/groep over 1 item
+
 * Waarom dit item?
 * Welke vacatures zijn er mbt deze items?
 * Welke bronnen zijn er mbt deze items?
 
-Week 3: Groepswerk
-- [ ] Vergelijk bronnen met medestudente
-- [ ] Wat zijn de voordelen en nadelen van deze bronnen?
-- [ ] Wat is de leercurve van deze bronnen?
+#### Week 3: Groepswerk
+ Ga samen met medestudenten aan de slag
+
+* Vergelijk software/frameworks/tools met medestudenten
+* Vergelijk bronnen met medestudenten
+* Wat zijn de voordelen en nadelen van deze bronnen?
+* Wat is de leercurve van deze bronnen?
+
+Noteer je bevindingen in een HTML pagina of voorlopig in een document.
+
+
 
 
 
